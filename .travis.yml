@@ -2,10 +2,10 @@ language: java
 
 
 before_script:
-- chmod +x scripts/*.kts
+- chmod +x scripts/*
 
 script:
-- scripts/validateJson.kts events/all.json
+- scripts/validateJson events/all.json
 
 before_cache:
   - rm -f  $HOME/.gradle/caches/modules-2/modules-2.lock
