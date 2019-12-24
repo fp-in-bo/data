@@ -1,5 +1,11 @@
 [
     {
+        "title": "KindOf<Polymorphism>",
+        "speaker": "Daniele Campogiani",
+        "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/72071204_10162500322720261_6644187464858599424_o.jpg?_nc_cat=111&_nc_ohc=HVNoKnl-MKQAQknY1qHaIRDw9Jw2D-Fz1qxzmgSsPqUkVUSM6B2j6PmFA&_nc_ht=scontent-fco1-1.xx&oh=2bf933781e0e3bc455a579382ced0fa4&oe=5E75D343",
+        "description": "In this talk Daniele Campogiani (https://twitter.com/dcampogiani) will explore the tagless final approach abstracting over different effects in Kotlin.\n \n Suppose you are writing software and you have to choose how to model an async operation,\n will you choose RxJava? Coroutines? Or maybe Arrow IO?\n What if you can write you code based just on some behaviours and then let your future self choose the proper implementation for each scenario?\n In this talk, we will use some concepts of functional programming that will enable us to do just that.\n We will explore:\n - Typeclasses\n - Higher Kind\n - Polymorphic Programs\n \n See you at 19:00 @LuogoComune.\n The event will start with Pizza+Beer for 5 euros and will continue with the Daniele's talk.\nSee you there!"
+    },
+    {
         "title": "Come risolvere un puzzle cripto-aritmetico in Scala",
         "speaker": "Filippo Vitale",
         "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/56119863_10161671437970261_805852069364760576_o.jpg?_nc_cat=101&_nc_ohc=vrsOfluE_0MAQk0c_oR22W5iMFVwIZl3273y5yR325065mzK51dgPxnSA&_nc_ht=scontent-fco1-1.xx&oh=80adddae081a42c48f376a1c0064f852&oe=5EB214CA",
