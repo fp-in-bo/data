@@ -1,5 +1,11 @@
 [
     {
+        "title": "Functional Programming in applicazioni front-end development",
+        "speaker": "Gabriele Petronella",
+        "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/52830911_10161546229200261_5668015615512674304_o.jpg?_nc_cat=110&_nc_ohc=o3Np1TfgZxoAQleafD9lEUe48s6ZMsdS4IbqSkFkk5_tXy_YCVHoqFXxA&_nc_ht=scontent-fco1-1.xx&oh=f8c061e93bcae3f33189a273ce725989&oe=5EB2B208",
+        "description": "Come la programmazione funzionale può semplificare il front-end development\n \n La programmazione funzionale sta prendendo piede in moltissime aree dello sviluppo, ma questa cosa come può aiutare il front-end development?\n \n Gabriele (https://twitter.com/gabro27 ) ci illustrerà come la programmazione funzionale si pone nella scena dello sviluppo front-end, e come possiamo introdurla gradualmente all'interno di codebase esistenti.Gabriele è il co-founder di https://www.buildo.io/ .\n \n Affascinato dai linguaggi di programmazione in generale  e dalla programmazione funzionale, è attualmente uno sviluppatore principalmente Typescript e Scala. \n \n Dice di essere un  parlatore instancabile (a volte anche troppo instancabile) ed è proprio per questo che ha deciso di infastidire un'intera comunità di appassionati diventando uno speaker!Laureato presso la UIC di Chicago ha completato la sua formazione in Computer Science presso il Politecnico di Milano. \n \n Ad oggi  è anche uno degli organizzatori dello Scala Italy (http://2018.scala-italy.it )  e uno dei contributor più attivi all'interno della community scala (https://github.com/gabro).\n \n L'intervento di Gabriele verrà anticipato come di consueto da un aperitivo a base di pizza e birra per un prezzo totale di 5 euro."
+    },
+    {
         "title": "L'arte della composizione",
         "speaker": "Marco Perone",
         "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/46058304_317951442267953_2109324538612285440_o.jpg?_nc_cat=109&_nc_ohc=m80IhGVea4AAQkQ1w5q5qwSv1Wf7TDusiC7mD-pbbEz07SET-n_-4t0qA&_nc_ht=scontent-fco1-1.xx&oh=3f9782e74d6f6862e97ad2ed287ddb75&oe=5EB0CBFB",
