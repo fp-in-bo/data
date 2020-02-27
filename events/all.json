@@ -1,5 +1,11 @@
 [
     {
+        "title": "Functional Pills for Object Oriented Developers",
+        "speaker": "Marco Perone",
+        "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/82283519_2474316419484809_8558678293920874496_o.jpg?_nc_cat=106&_nc_ohc=5bMfO2xkeuMAX941Fzp&_nc_ht=scontent-fco1-1.xx&oh=fc9dd730107fb80783b31a782e430cbe&oe=5F02CEB2",
+        "description": "Apply functional programming ideas to object oriented programming style"
+    },
+    {
         "title": "(IM)Practical Functional Programming, adopting FP in industry",
         "speaker": "Alessandro Zoffoli",
         "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/78409006_10162737638040261_986400575954354176_o.jpg?_nc_cat=104&_nc_ohc=hiQmuclhmuAAQl56rV1Z8TU-eK4EeEPLgwJevwCCQ-bz_9gVAYnpuweRQ&_nc_ht=scontent-fco1-1.xx&oh=85e7121d1792569bd7a6b23f5a1c7b6f&oe=5E7C0C26",
