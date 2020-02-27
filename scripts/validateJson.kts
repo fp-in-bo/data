@@ -7,6 +7,7 @@ exec kscript $0 "$@"
 \*** IMPORTANT: Any code including imports and annotations must come after this line ***/
 //DEPS com.fasterxml.jackson.module:jackson-module-kotlin:2.10.1
 
+import com.fasterxml.jackson.annotation.JsonProperty
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.KotlinModule
 import com.fasterxml.jackson.module.kotlin.readValue
@@ -19,8 +20,10 @@ val validEvents: List<EventModel> = mapper.readValue(inputStream)
 println(validEvents)
 
 data class EventModel(
-    val title: String,
-    val speaker: String,
-    val imageUrl: String,
-    val description: String
+    @JsonProperty(required = true) val id: Int,
+    @JsonProperty(required = true) val title: String,
+    @JsonProperty(required = true) val speaker: String,
+    @JsonProperty(required = true) val imageUrl: String,
+    @JsonProperty(required = true) val description: String,
+    val videoUrl: String?
 )
