@@ -44,7 +44,7 @@
         "title": "L'arte della composizione",
         "speaker": "Marco Perone",
         "imageUrl": "https://scontent-fco1-1.xx.fbcdn.net/v/t1.0-9/46058304_317951442267953_2109324538612285440_o.jpg?_nc_cat=109&_nc_ohc=m80IhGVea4AAQkQ1w5q5qwSv1Wf7TDusiC7mD-pbbEz07SET-n_-4t0qA&_nc_ht=scontent-fco1-1.xx&oh=3f9782e74d6f6862e97ad2ed287ddb75&oe=5EB0CBFB",
-        "videoUrl": "https://www.youtube.com/watch?v=TuqZGJqC8zU&",
+        "videoUrl": "https://www.youtube.com/watch?v=TuqZGJqC8zU",
         "description": "L'arte di comporre ci permette di costruire architetture complesse partendo da componenti semplici. Inoltre avere blocchi semplici e facilmente componibili ci permette di ottenere l'agognata capacità di riutilizzare parti del codice che abbiamo già scritto.\n \n La disciplina che studia e formalizza i meccanismi che regolano la composizione viene chiamata dai matematici teoria delle categorie.\n \n In questo talk vedremo insieme quali sono le idee e i concetti principali che la teoria delle categorie ci offre, e ragioneremo sul perchè un tale approccio può essere interessante ed utile per un qualunque programmatore.\n \n ---------------------------------------------------------------------------------------\n Il nostro Speaker Marco Perone.\n \n Software bricklayer in MVLabs. \n \n Cresciuto come matematico, amo portare nel codice che scrivo la stessa precisione e lo stesso formalismo che si trova in matematica. Nel bel mezzo di una (im)mutazione verso approcci e linguaggi funzionali."
     },
     {
