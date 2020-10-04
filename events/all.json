@@ -1,5 +1,12 @@
 [
     {
+        "id": 10,
+        "title": "Fun error handling in Scala",
+        "speaker": "Antonio Murgia",
+        "imageUrl": "https://fpinbo.dev/data/events/images/10.jpg",
+        "description": "A quick tour on how errors can be handled in a functional way in Scala"
+    },
+    {
         "id": 9,
         "title": "Functional Pills for Object Oriented Developers",
         "speaker": "Marco Perone",
