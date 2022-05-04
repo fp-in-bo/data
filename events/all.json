@@ -1,5 +1,13 @@
 [
     {
+        "id": 11,
+        "title": "RabbitMQ dal cloud allo stream",
+        "speaker": "Gabriele Santomaggio",
+        "imageUrl": "https://fpinbo.dev/data/events/images/11.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=ztUuiYcpizA",
+        "description": "In questo talk vedremo alcune novità delle ultime versioni di RabbitMQ, in particolare il deployment su Kubernetes con l'operator e le nuove code di tipo stream che permettono l'inserimento di milioni di messaggi al secondo"
+    },
+    {
         "id": 10,
         "title": "Fun error handling in Scala",
         "speaker": "Antonio Murgia",
