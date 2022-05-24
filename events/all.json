@@ -1,5 +1,13 @@
 [
     {
+        "id": 12,
+        "title": "Error handling in Rust: from first principles",
+        "speaker": "Luca Palmieri",
+        "imageUrl": "https://fpinbo.dev/data/events/images/12.jpg",
+        "videoUrl": "https://www.youtube.com/watch?v=8ts7Lf1-R2M",
+        "description": "This talk will build a mental framework to reason about errors. It will help you to determine how to deal with errors in a variety of different scenarios."
+    },
+    {
         "id": 11,
         "title": "RabbitMQ dal cloud allo stream",
         "speaker": "Gabriele Santomaggio",
